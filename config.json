@@ -1,0 +1,14 @@
+{
+    "port": 1234,
+    "mode": "both",
+    "backup_dir": "",
+    "max_elements": 10,
+    "delete_old_when_full": true,
+    "keep_time": 100,
+    "max_folder_size_gb": 4.4,
+    "admin_key": "",
+    "public_key": "",
+    "accept_keys": [
+        ""
+    ]
+}
